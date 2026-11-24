@@ -21,7 +21,7 @@ team can decide what to fix first.
 - [Business Requirements Document (PDF)](docs/BRD_v1.0.pdf)
 
 ## Data source
-- Dataset: [E-Commerce Blinkit vs Zepto vs JioMart Reviews](PASTE-YOUR-KAGGLE-LINK-HERE) on Kaggle
+- Dataset: [E-Commerce Blinkit vs Zepto vs JioMart Reviews](https://www.kaggle.com/datasets/mannacharya/blinkit-vs-zepto-vs-instamart-reviews) on Kaggle
 - Author: Mann Acharya
 - License: MIT (as stated on the Kaggle page)
 - The data file is not included in this repository. Download it from the link above.
